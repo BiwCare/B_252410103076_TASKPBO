@@ -1,0 +1,14 @@
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\SistemPerpustakaan.exe
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\SistemPerpustakaan.deps.json
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\SistemPerpustakaan.runtimeconfig.json
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\SistemPerpustakaan.dll
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\SistemPerpustakaan.pdb
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\SistemPerpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\SistemPerpustakaan.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\SistemPerpustakaan.AssemblyInfo.cs
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\SistemPerpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\SistemPerpustakaan.dll
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\refint\SistemPerpustakaan.dll
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\SistemPerpustakaan.pdb
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\SistemPerpustakaan.genruntimeconfig.cache
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\ref\SistemPerpustakaan.dll

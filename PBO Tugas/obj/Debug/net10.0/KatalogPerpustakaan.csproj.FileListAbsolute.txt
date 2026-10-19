@@ -1,0 +1,14 @@
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\KatalogPerpustakaan.exe
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\KatalogPerpustakaan.deps.json
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\KatalogPerpustakaan.runtimeconfig.json
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\KatalogPerpustakaan.dll
+C:\Users\lenov\Downloads\PBO Tugas\bin\Debug\net10.0\KatalogPerpustakaan.pdb
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\KatalogPerpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\KatalogPerpustakaan.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\KatalogPerpustakaan.AssemblyInfo.cs
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\KatalogPerpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\KatalogPerpustakaan.dll
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\refint\KatalogPerpustakaan.dll
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\KatalogPerpustakaan.pdb
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\KatalogPerpustakaan.genruntimeconfig.cache
+C:\Users\lenov\Downloads\PBO Tugas\obj\Debug\net10.0\ref\KatalogPerpustakaan.dll
